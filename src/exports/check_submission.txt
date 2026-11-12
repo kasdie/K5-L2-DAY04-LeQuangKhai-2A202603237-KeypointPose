@@ -1,0 +1,21 @@
+
+=== src/exports/LeQuangKhai_persons.zip (label `person`) ===
+  [CẢNH BÁO] 000000012552.jpg #1: cặp ankle nằm ngược phía so với các cặp còn lại. Có thể đổi trái/phải một cặp (`lr_swap`), hoặc tay / chân bắt chéo thật: kiểm lại.
+  [CẢNH BÁO] 000000323705.jpg: không có skeleton `person` nào. Ảnh nào cũng có ít nhất một người cần gán.
+
+=== src/exports/LeQuangKhai_faces.zip (label `face`) ===
+
+----- TÓM TẮT (dán vào báo cáo mục 5) -----
+- File person: LeQuangKhai_persons.zip
+  Số ảnh: 12 · số skeleton `person`: 18 · mỗi annotation 51 số
+  Skeleton theo ảnh: 000000012552=3, 000000072098=1, 000000164659=1, 000000176000=1, 000000302102=2, 000000323705=0, 000000336477=1, 000000463932=1, 000000467300=2, 000000469061=2, 000000480582=2, 000000518966=2
+  Cờ v: v=2 219 (72%) · v=1 77 (25%) · v=0 10 (3%)
+  num_keypoints trung bình: 16.4
+- File face: LeQuangKhai_faces.zip
+  Số ảnh: 8 · số skeleton `face`: 8 · mỗi annotation 39 số
+  Skeleton theo ảnh: face_122747=1, face_137371=1, face_159828=1, face_257657=1, face_324513=1, face_416730=1, face_425647=1, face_504911=1
+  Cờ v: v=2 95 (91%) · v=1 9 (9%) · v=0 0 (0%)
+  num_keypoints trung bình: 13.0
+- Ghi chú: 10 điểm v = 0 vẫn mang tọa độ cũ (CVAT 2.x xuất như vậy; chuẩn COCO ghi 0, 0). Không phải lỗi: điểm v = 0 bị bỏ qua khi huấn luyện và khi chấm.
+- Số [LỖI]: 0 · số [CẢNH BÁO]: 2
+Kết quả: ĐẠT (đọc lại từng cảnh báo ở trên)

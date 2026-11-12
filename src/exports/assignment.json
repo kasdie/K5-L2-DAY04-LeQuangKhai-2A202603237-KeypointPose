@@ -1,0 +1,65 @@
+{
+ "mssv": "2A202603237",
+ "ten": "LeQuangKhai",
+ "pool_version": "d04-k5-v2",
+ "cvat_user": "hocvien",
+ "project": "d04-keypoint",
+ "persons": [
+  "000000072098.jpg",
+  "000000164659.jpg",
+  "000000176000.jpg",
+  "000000336477.jpg",
+  "000000463932.jpg",
+  "000000302102.jpg",
+  "000000467300.jpg",
+  "000000469061.jpg",
+  "000000480582.jpg",
+  "000000518966.jpg",
+  "000000323705.jpg",
+  "000000012552.jpg"
+ ],
+ "faces": [
+  "face_122747.jpg",
+  "face_257657.jpg",
+  "face_425647.jpg",
+  "face_137371.jpg",
+  "face_416730.jpg",
+  "face_504911.jpg",
+  "face_324513.jpg",
+  "face_159828.jpg"
+ ],
+ "tasks": {
+  "persons": {
+   "task_id": 26,
+   "job_id": 25,
+   "task_name": "persons-LeQuangKhai"
+  },
+  "faces": {
+   "task_id": 27,
+   "job_id": 26,
+   "task_name": "faces-LeQuangKhai"
+  },
+  "persons-extra": {
+   "task_id": 28,
+   "job_id": 27,
+   "task_name": "persons-extra-LeQuangKhai"
+  },
+  "faces-extra": {
+   "task_id": 29,
+   "job_id": 28,
+   "task_name": "faces-extra-LeQuangKhai"
+  }
+ },
+ "persons_extra": [
+  "000000254060.jpg",
+  "000000507223.jpg",
+  "000000517702.jpg"
+ ],
+ "faces_extra": [
+  "face_274219.jpg",
+  "face_296417.jpg",
+  "face_300200.jpg",
+  "face_45276.jpg",
+  "face_68290.jpg"
+ ]
+}

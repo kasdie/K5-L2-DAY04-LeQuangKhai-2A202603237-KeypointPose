@@ -1,0 +1,14 @@
+
+=== src/exports/LeQuangKhai_bonus_persons.zip (label `person`) ===
+  [CẢNH BÁO] 000000507223.jpg #1: cặp eye, ear nằm ngược phía so với các cặp còn lại. Có thể đổi trái/phải một cặp (`lr_swap`), hoặc tay / chân bắt chéo thật: kiểm lại.
+  [CẢNH BÁO] 000000507223.jpg #3: cặp ankle nằm ngược phía so với các cặp còn lại. Có thể đổi trái/phải một cặp (`lr_swap`), hoặc tay / chân bắt chéo thật: kiểm lại.
+
+----- TÓM TẮT (dán vào báo cáo mục 5) -----
+- File person: LeQuangKhai_bonus_persons.zip
+  Số ảnh: 3 · số skeleton `person`: 7 · mỗi annotation 51 số
+  Skeleton theo ảnh: 000000254060=2, 000000507223=3, 000000517702=2
+  Cờ v: v=2 88 (74%) · v=1 27 (23%) · v=0 4 (3%)
+  num_keypoints trung bình: 16.4
+- Ghi chú: 4 điểm v = 0 vẫn mang tọa độ cũ (CVAT 2.x xuất như vậy; chuẩn COCO ghi 0, 0). Không phải lỗi: điểm v = 0 bị bỏ qua khi huấn luyện và khi chấm.
+- Số [LỖI]: 0 · số [CẢNH BÁO]: 2
+Kết quả: ĐẠT (đọc lại từng cảnh báo ở trên)

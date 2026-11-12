@@ -1,0 +1,11 @@
+
+=== src/exports/LeQuangKhai_bonus_faces.zip (label `face`) ===
+
+----- TÓM TẮT (dán vào báo cáo mục 5) -----
+- File face: LeQuangKhai_bonus_faces.zip
+  Số ảnh: 5 · số skeleton `face`: 5 · mỗi annotation 39 số
+  Skeleton theo ảnh: face_274219=1, face_296417=1, face_300200=1, face_45276=1, face_68290=1
+  Cờ v: v=2 61 (94%) · v=1 4 (6%) · v=0 0 (0%)
+  num_keypoints trung bình: 13.0
+- Số [LỖI]: 0 · số [CẢNH BÁO]: 0
+Kết quả: ĐẠT

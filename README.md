@@ -1,3 +1,17 @@
+# Bài nộp Lab Ngày 4 — LeQuangKhai · 2A202603237
+
+- [Báo cáo cá nhân và ảnh minh chứng](report/individual/2A202603237_LeQuangKhai.md).
+- Bài chính: [18 skeleton người trong 12 ảnh](src/exports/LeQuangKhai_persons.zip), [8 skeleton mặt](src/exports/LeQuangKhai_faces.zip). Frame 5 được mentor cho phép bỏ, vẫn giữ nguyên trong assignment.
+- Bonus B1: [3 ảnh, 7 skeleton người](src/exports/LeQuangKhai_bonus_persons.zip).
+- Bonus B2: [5 ảnh, 5 skeleton mặt](src/exports/LeQuangKhai_bonus_faces.zip).
+- [Bộ ảnh được chia theo MSSV](src/exports/assignment.json).
+- Cả bốn job CVAT đã `completed`. File xuất là COCO Keypoints 1.0, không kèm ảnh gốc.
+- Kiểm tra định dạng: bài chính, B1 và B2 đều **ĐẠT**, không có dòng `[LỖI]`; cảnh báo và giới hạn kiểm tra được ghi trong báo cáo. Điểm/OKS do coach chấm, không tự nhận điểm bonus.
+
+Tài liệu đề bài gốc được giữ bên dưới.
+
+---
+
 # Lab Ngày 4 — Gán keypoint: skeleton 17 điểm COCO và 13 điểm khuôn mặt
 
 > **Loại bài: CÁ NHÂN.** Bạn làm trên **CVAT cài ở máy mình từ Ngày 2**. Mỗi người nhận một **bộ ảnh riêng, chọn ngẫu nhiên theo MSSV**, tự review và tự nộp một repo riêng.
